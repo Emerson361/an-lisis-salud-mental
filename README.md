@@ -15,4 +15,3 @@ Se exploran factores como conexión social, estrés aculturativo y duración de 
   - todep: Puntaje de depresión
   - tosc: Puntaje de conexión social
   - toas: Puntaje de estrés aculturativo
-hgggggggggg
